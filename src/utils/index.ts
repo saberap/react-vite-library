@@ -1,2 +1,5 @@
+export {chunk} from './formatter/chunk'
+export {nationlCodeValidator} from './formatter/nationalCodeValidator'
+export type {IChunk, INationlCodeVlidator} from './formatter/types'
 export type { ISum } from './sum'
 export { sum } from './sum'
